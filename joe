@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>blue</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+        header {
+            background-color: #fff;
+            color: #333;
+            padding: 20px;
+            text-align: center;
+        }
+        h1, h2 {
+            margin: 10px 0;
+        }
+        section {
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+            margin-top: auto; /* Push footer to the bottom */
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .logo {
+            width: 200px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="https://onedrive.live.com/embed?resid=b9535cfe5b5643d4%2162247&authkey=%21ABTLspvpQE3Xq6E&width=618&height=156" alt="JGTAB Logo" class="logo">
+    </header>
+    <section>
+        <h2>About Us</h2>
+        <p>Welcome to JGTAB, your trusted partner in finding innovative solutions for your business needs. We understand that every business is unique, and our mission is to help you navigate challenges and seize opportunities in today's dynamic market.</p>
+        <p>Whether it's optimizing global logistics, integrating business software and systems, or exploring new avenues for growth, we're here to provide expert guidance and support every step of the way. Let's work together to unlock your business's full potential.</p>
+    </section>
+    <section>
+        <h2>Consulting Services</h2>
+        <ul>
+            <li>Global Logistics</li>
+            <li>Business Software & Systems Integrations</li>
+        </ul>
+    </section>
+    <section>
+        <h2>Contact Us</h2>
+        <p>If you're interested in learning more about our services or would like to discuss how we can assist your business, feel free to contact us using the information below:</p>
+        <p>Email: <a href="mailto:jt@jgtab.com">jt@jgtab.com</a></p>
+        <p>Phone: 07340394166</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 JGTAB. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
